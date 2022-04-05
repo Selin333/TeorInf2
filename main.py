@@ -1,5 +1,5 @@
 import numpy as np
-
+#test
 def encode(str_to_conv):
     str_to_conv = "abcd5ttF%"
     print(str_to_conv)
